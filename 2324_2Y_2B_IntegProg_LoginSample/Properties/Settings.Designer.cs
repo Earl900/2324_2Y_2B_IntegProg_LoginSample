@@ -26,7 +26,7 @@ namespace _2324_2Y_2B_IntegProg_LoginSample.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-E6RG946U;Initial Catalog=2324_2B_LoginSample;Integrated Securi" +
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-GMQISDO;Initial Catalog=2324_2B_LoginSample;Integrated Securi" +
             "ty=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False")]
         public string _2324_2B_LoginSampleConnectionString {
             get {
